@@ -1,0 +1,14 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+nc: 6
+
+names:
+  0: car
+  1: threewheel
+  2: bus
+  3: truck
+  4: motorbike
+  5: van
